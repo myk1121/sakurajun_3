@@ -1,0 +1,17 @@
+/* ===============
+header
+=============== */
+.navbar-logo-img-sm {
+  width: 160px;
+}
+
+.navbar-logo-img-md {
+  width: 300px;
+}
+
+/* ===============
+配下ページ
+=============== */
+.subtitle {
+  background-color: rgba(184, 86, 175, 0.4);
+}
